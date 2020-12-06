@@ -4,7 +4,6 @@
   min-height: 100%;
   width: auto;
   height: auto;
-  background-color: rgba(0, 0, 0, 0.459);
   z-index: -2;
 }
 @media (min-aspect-ratio: 16/9) {
